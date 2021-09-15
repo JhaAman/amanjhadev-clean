@@ -32,9 +32,9 @@ const projects = [
     name: 'English to Bash Terminal',
     description:
       "Ever didn't know a bash command? Just type it in English, and we'll translate it to bash for you.",
-    stack: ['React', 'Electron', 'Rust', 'TypeScript', 'Figma'],
-    // sourceCode: 'https://github.com',
-    livePreview: 'https://www.rosieos.com',
+    stack: ['Python', 'OpenAI GPT-3'],
+    sourceCode: 'https://github.com/JhaAman/codex-cli',
+    // livePreview: 'https://www.rosieos.com',
   },
   {
     name: 'Corporate Hierarchy App',
