@@ -52,7 +52,7 @@ const skills = [
   'React',
   'Next.js',
   'Tailwindcss',
-  'Attack on Titan',
+  'Portfolio templates',
   'Electron',
   'Typescript',
   'Rust',
