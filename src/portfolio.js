@@ -7,10 +7,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Aman',
-  role: 'Founder of Rosie',
+  role: 'Founder of Tangie',
   description:
-    "Hey! I'm working on rosieos.com, a AI that can instantly answer StackOverflow questions. I also do React and Next.js freelance work.",
-  rosie: 'https://www.rosieos.com',
+    "Hey! I'm working on tangie.ai, a AI that can instantly answer StackOverflow questions.",
+  rosie: 'https://www.tangie.ai',
   social: {
     linkedin: 'https://linkedin.com/in/JhaAman',
     github: 'https://github.com/JhaAman',
@@ -64,7 +64,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'aman@amanjha.dev',
+  email: 'hey@amanjha.dev',
 }
 
 export { header, about, projects, skills, contact }
